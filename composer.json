@@ -4,5 +4,10 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MyPackage\\": "src/"
+        }
+    }
 }
