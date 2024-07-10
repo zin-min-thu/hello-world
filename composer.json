@@ -1,0 +1,8 @@
+{
+    "name": "kozin/hello-world",
+    "description": "Hello world package test",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
